@@ -15,5 +15,5 @@ function divide(x,y) {
 }
 
 function inc(n) {
-  n += 1
+  n ++
 }
