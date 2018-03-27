@@ -14,6 +14,7 @@ function divide(x,y) {
   return x / y
 }
 
-function inc(x,y) {
-  return x += y
+var number = 5
+function inc() {
+  number += 5 
 }
